@@ -3,7 +3,6 @@ import codecs
 import os
 from typing import List
 from argparse import ArgumentParser
-import time
 
 
 class SerialManager():
